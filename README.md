@@ -127,11 +127,11 @@ I'm passionate about **Neural Systems (BCI)**, **Healthcare AI**, and optimizing
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avsharr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&bg_color=0A0A0A&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=9D4EDD)
+![](https://github-readme-stats.vercel.app/api?username=avsharr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0A0A0A&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=9D4EDD)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=avsharr&theme=radical&hide_border=false&background=0A0A0A&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&border=9D4EDD)
+![](https://github-readme-streak-stats.demolab.com/?user=avsharr&theme=radical&background=0A0A0A&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&border=9D4EDD)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avsharr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0A0A0A&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=9D4EDD)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avsharr&theme=radical&layout=compact&langs_count=8&bg_color=0A0A0A&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=9D4EDD)
 
 </div>
 
