@@ -125,32 +125,13 @@ I'm passionate about **Neural Systems (BCI)**, **Healthcare AI**, and optimizing
 
 ## 📊 GitHub Analytics
 
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center; margin: 30px 0;">
-
-<!-- Stats Cards with glassmorphism -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; width: 100%;">
-
-<div style="background: linear-gradient(135deg, rgba(157, 78, 221, 0.1) 0%, rgba(0, 0, 0, 0.3) 100%); border-radius: 15px; padding: 20px; backdrop-filter: blur(10px); border: 1px solid rgba(157, 78, 221, 0.3); flex: 1; min-width: 300px;">
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avsharr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&bg_color=0A0A0A&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=9D4EDD)
 
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(157, 78, 221, 0.1) 0%, rgba(0, 0, 0, 0.3) 100%); border-radius: 15px; padding: 20px; backdrop-filter: blur(10px); border: 1px solid rgba(157, 78, 221, 0.3); flex: 1; min-width: 300px;">
-
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=avsharr&theme=radical&hide_border=false&background=0A0A0A&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&border=9D4EDD)
 
-</div>
-
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(157, 78, 221, 0.1) 0%, rgba(0, 0, 0, 0.3) 100%); border-radius: 15px; padding: 20px; backdrop-filter: blur(10px); border: 1px solid rgba(157, 78, 221, 0.3); width: 100%; max-width: 800px;">
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avsharr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0A0A0A&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=9D4EDD)
-
-</div>
-
-</div>
 
 </div>
 
@@ -160,7 +141,7 @@ I'm passionate about **Neural Systems (BCI)**, **Healthcare AI**, and optimizing
 
 ## 🔝 Top Contributed Repositories
 
-<div style="background: linear-gradient(135deg, rgba(157, 78, 221, 0.1) 0%, rgba(0, 0, 0, 0.3) 100%); border-radius: 15px; padding: 20px; backdrop-filter: blur(10px); border: 1px solid rgba(157, 78, 221, 0.3); margin: 20px 0;">
+<div align="center">
 
 ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=avsharr&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0A0A0A&title_color=9D4EDD&text_color=FFFFFF&border_color=9D4EDD)
 
@@ -204,3 +185,4 @@ Made with ❤️ and ☕ by **Anastasiia Sharova**
 </svg>
 
 </div>
+
