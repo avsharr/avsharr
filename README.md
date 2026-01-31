@@ -50,6 +50,7 @@ I'm passionate about **Neural Systems (BCI)**, **Healthcare AI**, and optimizing
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://linkedin.com/in/avsharr)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0A0A0A)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=dKw8X_IAAAAJ)
 
 </div>
 
@@ -127,11 +128,21 @@ I'm passionate about **Neural Systems (BCI)**, **Healthcare AI**, and optimizing
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=avsharr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0A0A0A&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=9D4EDD)
+<a href="https://github.com/avsharr">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avsharr&theme=radical&bg_color=0A0A0A&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD" alt="GitHub Profile Details" />
+</a>
 
-![](https://github-readme-streak-stats.demolab.com/?user=avsharr&theme=radical&background=0A0A0A&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&border=9D4EDD)
+<a href="https://github.com/avsharr">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avsharr&theme=radical&bg_color=0A0A0A&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD" alt="GitHub Stats" />
+</a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avsharr&theme=radical&layout=compact&langs_count=8&bg_color=0A0A0A&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=9D4EDD)
+<a href="https://github.com/avsharr">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avsharr&theme=radical&bg_color=0A0A0A&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD" alt="Top Languages" />
+</a>
+
+<a href="https://github.com/avsharr">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avsharr&theme=radical&bg_color=0A0A0A&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD" alt="Most Commit Language" />
+</a>
 
 </div>
 
@@ -187,3 +198,4 @@ Made with ❤️ and ☕ by **Anastasiia Sharova**
 </svg>
 
 </div>
+
