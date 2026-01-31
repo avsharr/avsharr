@@ -139,11 +139,13 @@ I'm passionate about **Neural Systems (BCI)**, **Healthcare AI**, and optimizing
 
 <div align="center">
 
-## 🔝 Top Contributed Repositories
+## 🔝 GitHub Activity
 
 <div align="center">
 
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=avsharr&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0A0A0A&title_color=9D4EDD&text_color=FFFFFF&border_color=9D4EDD)
+<a href="https://github.com/avsharr">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=avsharr&theme=radical&hide_border=false&bg_color=0A0A0A&color=9D4EDD&line=9D4EDD&point=FFFFFF&area=true" alt="GitHub Activity Graph" />
+</a>
 
 </div>
 
@@ -159,7 +161,7 @@ I'm passionate about **Neural Systems (BCI)**, **Healthcare AI**, and optimizing
 <!-- Visitor counter with custom styling -->
 <div style="margin-top: 20px;">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=avsharr&icon=6&color=9&labelColor=0A0A0A&titleColor=9D4EDD)
+![Profile Views](https://komarev.com/ghpvc/?username=avsharr&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -185,4 +187,3 @@ Made with ❤️ and ☕ by **Anastasiia Sharova**
 </svg>
 
 </div>
-
